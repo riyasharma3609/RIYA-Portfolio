@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Weather App",
+    "desc": "Rapid API project that provides real-time weather data and forecasts for locations worldwide.",
+    "image": "instagrammern",
+    "category": "Rapid API",
+    "links": {
+      "view": "https://prjweatherapp.netlify.app/",
+      "code": "https://github.com/riyasharma3609/Weather-App.git"
+    }
+  },
+  {
+    "name": "Tailwind Landing Page",
+    "desc": "Creating a modern and responsive Tailwind CSS landing page for a cutting-edge tech product.",
+    "image": "flipkartmern",
+    "category": "Tailwind",
+    "links": {
+      "view": "https://prjtailwindlandingpage.netlify.app/",
+      "code": "https://github.com/riyasharma3609/Tailwind-Landing-Page.git"
+    }
+  },
+  {
+    "name": "Bootstrap Landing Page",
+    "desc": "Developing a sleek and dynamic Bootstrap landing page for a trendy platform.",
+    "image": "resumegen",
+    "category": "bootstrap",
+    "links": {
+      "view": "https://bootstrappagelanding.netlify.app/",
+      "code": "https://github.com/riyasharma3609/Bootstrap-Landing-Page.git"
+    }
+  },
+  {
+    "name": "ANIME GENERATOR",
+    "desc": "Developing a JavaScript project for an anime generator that generates random anime character image.",
+    "image": "reactprojects",
+    "category": "js",
+    "links": {
+      "view": "https://animatronics-generator.netlify.app/",
+      "code": "https://github.com/riyasharma3609/anime-generator.git"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "Building a fully functional calculator using JavaScript and CSS for web-based calculations.",
+    "image": "flipkartphp",
+    "category": "js",
+    "links": {
+      "view": "https://prjcalculator.netlify.app/",
+      "code": "https://github.com/riyasharma3609/calculator.git"
+    }
+  },
+  {
+    "name": "Instagram LOGIN PAGE CLONE",
+    "desc": "Designing an authentic-looking Instagram login page using HTML and CSS for user authentication.",
+    "image": "jspro",
+    "category": "css",
+    "links": {
+      "view": "https://igloginpage.netlify.app/",
+      "code": "https://github.com/riyasharma3609/Instagram-Login-Page.git"
+    }
+  }
+]
